@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Burugula2006/BR_DSA/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Burugula2006/BR_DSA/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Burugula2006/BR_DSA/tree/master/0013-roman-to-integer) |
+| [0205-isomorphic-strings](https://github.com/Burugula2006/BR_DSA/tree/master/0205-isomorphic-strings) |
 | [0409-longest-palindrome](https://github.com/Burugula2006/BR_DSA/tree/master/0409-longest-palindrome) |
 | [0796-rotate-string](https://github.com/Burugula2006/BR_DSA/tree/master/0796-rotate-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Burugula2006/BR_DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Burugula2006/BR_DSA/tree/master/0013-roman-to-integer) |
+| [0205-isomorphic-strings](https://github.com/Burugula2006/BR_DSA/tree/master/0205-isomorphic-strings) |
 | [0409-longest-palindrome](https://github.com/Burugula2006/BR_DSA/tree/master/0409-longest-palindrome) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Burugula2006/BR_DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Two Pointers
