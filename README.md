@@ -21,12 +21,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0409-longest-palindrome](https://github.com/Burugula2006/BR_DSA/tree/master/0409-longest-palindrome) |
 | [0796-rotate-string](https://github.com/Burugula2006/BR_DSA/tree/master/0796-rotate-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Burugula2006/BR_DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Burugula2006/BR_DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
 |  |
 | ------- |
+| [0409-longest-palindrome](https://github.com/Burugula2006/BR_DSA/tree/master/0409-longest-palindrome) |
 | [1903-largest-odd-number-in-string](https://github.com/Burugula2006/BR_DSA/tree/master/1903-largest-odd-number-in-string) |
 ## String Matching
 |  |
@@ -36,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Burugula2006/BR_DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Hash Table
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/Burugula2006/BR_DSA/tree/master/0409-longest-palindrome) |
 <!---LeetCode Topics End-->
