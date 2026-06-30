@@ -5,7 +5,10 @@ class Solution {
             hm.put(c,hm.getOrDefault(c,0)+1);
         }
         List<Character> al= new ArrayList<>(hm.keySet());
-        al.sort((a,b)->Integer.compare(hm.get(b),hm.get(a)));
+        al.sort((a,b)->{
+        if(a!=b) return Integer.compare(hm.get(b),hm.get(a));
+        return a-b;
+        });
       //  Collections.sort(hm,(a,b)->Integer.compare(hm.get(b),hm.get(a)));
         StringBuilder sb =new StringBuilder();
         for(char c:al){
