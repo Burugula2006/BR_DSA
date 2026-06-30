@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Burugula2006/BR_DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0890-find-and-replace-pattern](https://github.com/Burugula2006/BR_DSA/tree/master/0890-find-and-replace-pattern) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Burugula2006/BR_DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## String
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Burugula2006/BR_DSA/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/Burugula2006/BR_DSA/tree/master/0205-isomorphic-strings) |
 | [0409-longest-palindrome](https://github.com/Burugula2006/BR_DSA/tree/master/0409-longest-palindrome) |
+| [0560-subarray-sum-equals-k](https://github.com/Burugula2006/BR_DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0890-find-and-replace-pattern](https://github.com/Burugula2006/BR_DSA/tree/master/0890-find-and-replace-pattern) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Burugula2006/BR_DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Two Pointers
@@ -66,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Burugula2006/BR_DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Burugula2006/BR_DSA/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
