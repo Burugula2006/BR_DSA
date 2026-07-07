@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Burugula2006/BR_DSA/tree/master/0238-product-of-array-except-self) |
 | [0503-next-greater-element-ii](https://github.com/Burugula2006/BR_DSA/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Burugula2006/BR_DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0735-asteroid-collision](https://github.com/Burugula2006/BR_DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Burugula2006/BR_DSA/tree/master/0739-daily-temperatures) |
 | [0890-find-and-replace-pattern](https://github.com/Burugula2006/BR_DSA/tree/master/0890-find-and-replace-pattern) |
 | [0907-sum-of-subarray-minimums](https://github.com/Burugula2006/BR_DSA/tree/master/0907-sum-of-subarray-minimums) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Burugula2006/BR_DSA/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/Burugula2006/BR_DSA/tree/master/0155-min-stack) |
 | [0503-next-greater-element-ii](https://github.com/Burugula2006/BR_DSA/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/Burugula2006/BR_DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Burugula2006/BR_DSA/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/Burugula2006/BR_DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Burugula2006/BR_DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -158,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Burugula2006/BR_DSA/tree/master/0292-nim-game) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/Burugula2006/BR_DSA/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
