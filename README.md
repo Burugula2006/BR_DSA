@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/Burugula2006/BR_DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Burugula2006/BR_DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Burugula2006/BR_DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2104-sum-of-subarray-ranges](https://github.com/Burugula2006/BR_DSA/tree/master/2104-sum-of-subarray-ranges) |
 ## String
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Burugula2006/BR_DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Burugula2006/BR_DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Burugula2006/BR_DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2104-sum-of-subarray-ranges](https://github.com/Burugula2006/BR_DSA/tree/master/2104-sum-of-subarray-ranges) |
 ## Hash Table
 |  |
 | ------- |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Burugula2006/BR_DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Burugula2006/BR_DSA/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/Burugula2006/BR_DSA/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/Burugula2006/BR_DSA/tree/master/2104-sum-of-subarray-ranges) |
 ## Matrix
 |  |
 | ------- |
