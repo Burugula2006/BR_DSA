@@ -19,14 +19,11 @@ class Solution {
             
         }
         if(s.isEmpty())return "/";
-        Stack<String> s2= new Stack<>();
-        while(!s.isEmpty()){
-          s2.push(s.pop());
-        }
+       
         
         StringBuilder sb = new StringBuilder();
-        while(!s2.isEmpty()){
-          sb.append("/"+s2.pop());
+        for(String x:s){
+          sb.append("/").append(x);
         }
         
        return sb.toString();
