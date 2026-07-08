@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Burugula2006/BR_DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Burugula2006/BR_DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Burugula2006/BR_DSA/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Burugula2006/BR_DSA/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Burugula2006/BR_DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Burugula2006/BR_DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Burugula2006/BR_DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Burugula2006/BR_DSA/tree/master/0085-maximal-rectangle) |
 | [0503-next-greater-element-ii](https://github.com/Burugula2006/BR_DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Burugula2006/BR_DSA/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Burugula2006/BR_DSA/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Burugula2006/BR_DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/Burugula2006/BR_DSA/tree/master/2104-sum-of-subarray-ranges) |
 ## Matrix
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Burugula2006/BR_DSA/tree/master/0155-min-stack) |
+| [0901-online-stock-span](https://github.com/Burugula2006/BR_DSA/tree/master/0901-online-stock-span) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -178,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Burugula2006/BR_DSA/tree/master/0239-sliding-window-maximum) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Burugula2006/BR_DSA/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
