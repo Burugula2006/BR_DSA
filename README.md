@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Burugula2006/BR_DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Burugula2006/BR_DSA/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Burugula2006/BR_DSA/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/Burugula2006/BR_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0503-next-greater-element-ii](https://github.com/Burugula2006/BR_DSA/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Burugula2006/BR_DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0735-asteroid-collision](https://github.com/Burugula2006/BR_DSA/tree/master/0735-asteroid-collision) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Burugula2006/BR_DSA/tree/master/0013-roman-to-integer) |
 | [0146-lru-cache](https://github.com/Burugula2006/BR_DSA/tree/master/0146-lru-cache) |
 | [0205-isomorphic-strings](https://github.com/Burugula2006/BR_DSA/tree/master/0205-isomorphic-strings) |
+| [0347-top-k-frequent-elements](https://github.com/Burugula2006/BR_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Burugula2006/BR_DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Burugula2006/BR_DSA/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/Burugula2006/BR_DSA/tree/master/0451-sort-characters-by-frequency) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Burugula2006/BR_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Burugula2006/BR_DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Burugula2006/BR_DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1189-maximum-number-of-balloons](https://github.com/Burugula2006/BR_DSA/tree/master/1189-maximum-number-of-balloons) |
@@ -122,16 +125,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Burugula2006/BR_DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Burugula2006/BR_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Burugula2006/BR_DSA/tree/master/0451-sort-characters-by-frequency) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Burugula2006/BR_DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Burugula2006/BR_DSA/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/Burugula2006/BR_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Burugula2006/BR_DSA/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Burugula2006/BR_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Burugula2006/BR_DSA/tree/master/0451-sort-characters-by-frequency) |
 ## Monotonic Stack
 |  |
@@ -158,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Burugula2006/BR_DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Burugula2006/BR_DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Burugula2006/BR_DSA/tree/master/0347-top-k-frequent-elements) |
 ## Tree
 |  |
 | ------- |
@@ -207,4 +214,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Burugula2006/BR_DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Burugula2006/BR_DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
