@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Burugula2006/BR_DSA/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Burugula2006/BR_DSA/tree/master/0013-roman-to-integer) |
 | [0292-nim-game](https://github.com/Burugula2006/BR_DSA/tree/master/0292-nim-game) |
+| [0973-k-closest-points-to-origin](https://github.com/Burugula2006/BR_DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1903-largest-odd-number-in-string](https://github.com/Burugula2006/BR_DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Recursion
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Burugula2006/BR_DSA/tree/master/0739-daily-temperatures) |
 | [0890-find-and-replace-pattern](https://github.com/Burugula2006/BR_DSA/tree/master/0890-find-and-replace-pattern) |
 | [0907-sum-of-subarray-minimums](https://github.com/Burugula2006/BR_DSA/tree/master/0907-sum-of-subarray-minimums) |
+| [0973-k-closest-points-to-origin](https://github.com/Burugula2006/BR_DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Burugula2006/BR_DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Burugula2006/BR_DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2104-sum-of-subarray-ranges](https://github.com/Burugula2006/BR_DSA/tree/master/2104-sum-of-subarray-ranges) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Burugula2006/BR_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Burugula2006/BR_DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Burugula2006/BR_DSA/tree/master/0692-top-k-frequent-words) |
+| [0973-k-closest-points-to-origin](https://github.com/Burugula2006/BR_DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Burugula2006/BR_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Burugula2006/BR_DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Burugula2006/BR_DSA/tree/master/0692-top-k-frequent-words) |
+| [0973-k-closest-points-to-origin](https://github.com/Burugula2006/BR_DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -172,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Burugula2006/BR_DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Burugula2006/BR_DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Burugula2006/BR_DSA/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Burugula2006/BR_DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Tree
 |  |
 | ------- |
@@ -222,8 +227,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Burugula2006/BR_DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Burugula2006/BR_DSA/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Burugula2006/BR_DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Trie
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/Burugula2006/BR_DSA/tree/master/0692-top-k-frequent-words) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Burugula2006/BR_DSA/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
