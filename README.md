@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Burugula2006/BR_DSA/tree/master/0085-maximal-rectangle) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Burugula2006/BR_DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/Burugula2006/BR_DSA/tree/master/0119-pascals-triangle-ii) |
+| [0162-find-peak-element](https://github.com/Burugula2006/BR_DSA/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Burugula2006/BR_DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Burugula2006/BR_DSA/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Burugula2006/BR_DSA/tree/master/0239-sliding-window-maximum) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Burugula2006/BR_DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0162-find-peak-element](https://github.com/Burugula2006/BR_DSA/tree/master/0162-find-peak-element) |
 | [0658-find-k-closest-elements](https://github.com/Burugula2006/BR_DSA/tree/master/0658-find-k-closest-elements) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Burugula2006/BR_DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Burugula2006/BR_DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
