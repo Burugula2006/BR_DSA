@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Burugula2006/BR_DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Burugula2006/BR_DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2104-sum-of-subarray-ranges](https://github.com/Burugula2006/BR_DSA/tree/master/2104-sum-of-subarray-ranges) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/Burugula2006/BR_DSA/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## String
 |  |
 | ------- |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Burugula2006/BR_DSA/tree/master/0875-koko-eating-bananas) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Burugula2006/BR_DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Burugula2006/BR_DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/Burugula2006/BR_DSA/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Binary Tree
 |  |
 | ------- |
