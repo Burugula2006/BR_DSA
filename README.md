@@ -14,10 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Burugula2006/BR_DSA/tree/master/0292-nim-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Burugula2006/BR_DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1903-largest-odd-number-in-string](https://github.com/Burugula2006/BR_DSA/tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/Burugula2006/BR_DSA/tree/master/1922-count-good-numbers) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Burugula2006/BR_DSA/tree/master/0002-add-two-numbers) |
+| [1922-count-good-numbers](https://github.com/Burugula2006/BR_DSA/tree/master/1922-count-good-numbers) |
 ## Array
 |  |
 | ------- |
