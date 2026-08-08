@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Burugula2006/BR_DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Burugula2006/BR_DSA/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/Burugula2006/BR_DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0678-valid-parenthesis-string](https://github.com/Burugula2006/BR_DSA/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/Burugula2006/BR_DSA/tree/master/0692-top-k-frequent-words) |
 | [0796-rotate-string](https://github.com/Burugula2006/BR_DSA/tree/master/0796-rotate-string) |
 | [0890-find-and-replace-pattern](https://github.com/Burugula2006/BR_DSA/tree/master/0890-find-and-replace-pattern) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0409-longest-palindrome](https://github.com/Burugula2006/BR_DSA/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/Burugula2006/BR_DSA/tree/master/0410-split-array-largest-sum) |
+| [0678-valid-parenthesis-string](https://github.com/Burugula2006/BR_DSA/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Burugula2006/BR_DSA/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/Burugula2006/BR_DSA/tree/master/1903-largest-odd-number-in-string) |
 ## String Matching
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Burugula2006/BR_DSA/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/Burugula2006/BR_DSA/tree/master/0155-min-stack) |
 | [0503-next-greater-element-ii](https://github.com/Burugula2006/BR_DSA/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Burugula2006/BR_DSA/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Burugula2006/BR_DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Burugula2006/BR_DSA/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Burugula2006/BR_DSA/tree/master/0901-online-stock-span) |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Burugula2006/BR_DSA/tree/master/0085-maximal-rectangle) |
 | [0119-pascals-triangle-ii](https://github.com/Burugula2006/BR_DSA/tree/master/0119-pascals-triangle-ii) |
 | [0410-split-array-largest-sum](https://github.com/Burugula2006/BR_DSA/tree/master/0410-split-array-largest-sum) |
+| [0678-valid-parenthesis-string](https://github.com/Burugula2006/BR_DSA/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/Burugula2006/BR_DSA/tree/master/0907-sum-of-subarray-minimums) |
 ## Counting
 |  |
@@ -293,4 +297,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Burugula2006/BR_DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Burugula2006/BR_DSA/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
