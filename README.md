@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Burugula2006/BR_DSA/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Burugula2006/BR_DSA/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Burugula2006/BR_DSA/tree/master/0013-roman-to-integer) |
+| [0022-generate-parentheses](https://github.com/Burugula2006/BR_DSA/tree/master/0022-generate-parentheses) |
 | [0071-simplify-path](https://github.com/Burugula2006/BR_DSA/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Burugula2006/BR_DSA/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/Burugula2006/BR_DSA/tree/master/0205-isomorphic-strings) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Burugula2006/BR_DSA/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Burugula2006/BR_DSA/tree/master/0022-generate-parentheses) |
 | [0085-maximal-rectangle](https://github.com/Burugula2006/BR_DSA/tree/master/0085-maximal-rectangle) |
 | [0119-pascals-triangle-ii](https://github.com/Burugula2006/BR_DSA/tree/master/0119-pascals-triangle-ii) |
 | [0410-split-array-largest-sum](https://github.com/Burugula2006/BR_DSA/tree/master/0410-split-array-largest-sum) |
@@ -307,9 +309,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Burugula2006/BR_DSA/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Burugula2006/BR_DSA/tree/master/0678-valid-parenthesis-string) |
 ## Merge Sort
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Burugula2006/BR_DSA/tree/master/0148-sort-list) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Burugula2006/BR_DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
