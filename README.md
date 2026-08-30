@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Burugula2006/BR_DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Burugula2006/BR_DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Burugula2006/BR_DSA/tree/master/1903-largest-odd-number-in-string) |
+| [3931-check-adjacent-digit-differences](https://github.com/Burugula2006/BR_DSA/tree/master/3931-check-adjacent-digit-differences) |
 ## Greedy
 |  |
 | ------- |
