@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Burugula2006/BR_DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Burugula2006/BR_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Burugula2006/BR_DSA/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Burugula2006/BR_DSA/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Burugula2006/BR_DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Burugula2006/BR_DSA/tree/master/0085-maximal-rectangle) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Burugula2006/BR_DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Burugula2006/BR_DSA/tree/master/0022-generate-parentheses) |
 | [0071-simplify-path](https://github.com/Burugula2006/BR_DSA/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Burugula2006/BR_DSA/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/Burugula2006/BR_DSA/tree/master/0079-word-search) |
 | [0205-isomorphic-strings](https://github.com/Burugula2006/BR_DSA/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/Burugula2006/BR_DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Burugula2006/BR_DSA/tree/master/0409-longest-palindrome) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Burugula2006/BR_DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Burugula2006/BR_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Burugula2006/BR_DSA/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Burugula2006/BR_DSA/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Burugula2006/BR_DSA/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Burugula2006/BR_DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0931-minimum-falling-path-sum](https://github.com/Burugula2006/BR_DSA/tree/master/0931-minimum-falling-path-sum) |
@@ -317,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Burugula2006/BR_DSA/tree/master/0079-word-search) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Burugula2006/BR_DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Burugula2006/BR_DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Breadth-First Search
@@ -336,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Burugula2006/BR_DSA/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/Burugula2006/BR_DSA/tree/master/0079-word-search) |
 ## Longest Common Subsequence
 |  |
 | ------- |
