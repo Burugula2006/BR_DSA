@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Burugula2006/BR_DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0054-spiral-matrix](https://github.com/Burugula2006/BR_DSA/tree/master/0054-spiral-matrix) |
+| [0057-insert-interval](https://github.com/Burugula2006/BR_DSA/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/Burugula2006/BR_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Burugula2006/BR_DSA/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Burugula2006/BR_DSA/tree/master/0079-word-search) |
