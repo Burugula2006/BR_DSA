@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Burugula2006/BR_DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0054-spiral-matrix](https://github.com/Burugula2006/BR_DSA/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/Burugula2006/BR_DSA/tree/master/0057-insert-interval) |
+| [0064-minimum-path-sum](https://github.com/Burugula2006/BR_DSA/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Burugula2006/BR_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Burugula2006/BR_DSA/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Burugula2006/BR_DSA/tree/master/0079-word-search) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Burugula2006/BR_DSA/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Burugula2006/BR_DSA/tree/master/0022-generate-parentheses) |
+| [0064-minimum-path-sum](https://github.com/Burugula2006/BR_DSA/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/Burugula2006/BR_DSA/tree/master/0085-maximal-rectangle) |
 | [0119-pascals-triangle-ii](https://github.com/Burugula2006/BR_DSA/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Burugula2006/BR_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Burugula2006/BR_DSA/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/Burugula2006/BR_DSA/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Burugula2006/BR_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Burugula2006/BR_DSA/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Burugula2006/BR_DSA/tree/master/0079-word-search) |
