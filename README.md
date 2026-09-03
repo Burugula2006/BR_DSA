@@ -371,4 +371,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Burugula2006/BR_DSA/tree/master/0322-coin-change) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Burugula2006/BR_DSA/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
