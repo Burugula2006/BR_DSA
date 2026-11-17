@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Burugula2006/BR_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0213-house-robber-ii](https://github.com/Burugula2006/BR_DSA/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Burugula2006/BR_DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/Burugula2006/BR_DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Burugula2006/BR_DSA/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Burugula2006/BR_DSA/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Burugula2006/BR_DSA/tree/master/0240-search-a-2d-matrix-ii) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Burugula2006/BR_DSA/tree/master/0076-minimum-window-substring) |
 | [0146-lru-cache](https://github.com/Burugula2006/BR_DSA/tree/master/0146-lru-cache) |
 | [0205-isomorphic-strings](https://github.com/Burugula2006/BR_DSA/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/Burugula2006/BR_DSA/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Burugula2006/BR_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Burugula2006/BR_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Burugula2006/BR_DSA/tree/master/0387-first-unique-character-in-a-string) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Burugula2006/BR_DSA/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Burugula2006/BR_DSA/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Burugula2006/BR_DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/Burugula2006/BR_DSA/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Burugula2006/BR_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Burugula2006/BR_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/Burugula2006/BR_DSA/tree/master/0435-non-overlapping-intervals) |
